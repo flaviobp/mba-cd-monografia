@@ -1,0 +1,33 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: USPSC-TCC-modelo-ICMC.aux
+A level-1 auxiliary file: USPSC-Dedicatoria.aux
+A level-1 auxiliary file: USPSC-Agradecimentos.aux
+A level-1 auxiliary file: USPSC-Resumo.aux
+A level-1 auxiliary file: USPSC-Abstract.aux
+A level-1 auxiliary file: USPSC-Cap1-Introducao.aux
+A level-1 auxiliary file: USPSC-Cap2-Desenvolvimento.aux
+A level-1 auxiliary file: USPSC-Cap3-Citacoes.aux
+A level-1 auxiliary file: USPSC-Cap4-Referencias.aux
+A level-1 auxiliary file: USPSC-Cap5-Conclusao.aux
+A level-1 auxiliary file: USPSC-Apendices.aux
+A level-1 auxiliary file: USPSC-Anexos.aux
+A level-1 auxiliary file: USPSC-IndicesRemissivos.aux
+The style file: abntex2-alf.bst
+Database file #1: abntex2-options.bib
+Database file #2: USPSC-modelo-references.bib
+Warning--entry type for "Castro1990" isn't style-file defined
+--line 270 of file USPSC-modelo-references.bib
+Warning--entry type for "Vicente2010" isn't style-file defined
+--line 1233 of file USPSC-modelo-references.bib
+Warning--I didn't find a database entry for "abnt-etal-cite"
+Warning--campo year vazio ou faltando em Barbosa2002
+Warning--campo year vazio ou faltando em bionline
+Warning--campo year vazio ou faltando em Bruckman2002
+Warning--campo year vazio ou faltando em Miyaura
+Warning--campo year vazio ou faltando em science2006
+Warning--campo year vazio ou faltando em Vicente2010
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+(There were 9 warnings)

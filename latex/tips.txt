@@ -1,0 +1,4 @@
+- modelo utilizado USPSC-v2.1
+- To comment several lines at once in TeXMaker, select the lines and click Ctrl+T. To uncomment, click Ctrl+U.
+- arquivo principal USPSC-TCC-modelo-ICMC.TEX
+
