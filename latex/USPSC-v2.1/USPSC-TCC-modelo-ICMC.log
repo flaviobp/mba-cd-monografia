@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.24)  25 JUN 2023 22:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.24)  27 JUN 2023 00:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1263,7 +1263,7 @@ Check that you have spelled the key name correctly.
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.14 ...ercase []{Desenvolvimento}}{31}{chapter.2}
+l.17 ...ercase []{Desenvolvimento}}{31}{chapter.2}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1277,7 +1277,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.14 ...ercase []{Desenvolvimento}}{31}{chapter.2}
+l.17 ...ercase []{Desenvolvimento}}{31}{chapter.2}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1290,7 +1290,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.14 ...ercase []{Desenvolvimento}}{31}{chapter.2}
+l.17 ...ercase []{Desenvolvimento}}{31}{chapter.2}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1302,7 +1302,7 @@ Check that you have spelled the key name correctly.
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.57 ...keUppercase []{Citações}}{57}{chapter.3}
+l.60 ...keUppercase []{Citações}}{57}{chapter.3}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1316,7 +1316,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.57 ...keUppercase []{Citações}}{57}{chapter.3}
+l.60 ...keUppercase []{Citações}}{57}{chapter.3}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1329,7 +1329,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.57 ...keUppercase []{Citações}}{57}{chapter.3}
+l.60 ...keUppercase []{Citações}}{57}{chapter.3}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1340,7 +1340,7 @@ Check that you have spelled the key name correctly.
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.72 ...]{Modelos de referências}}{81}{chapter.4}
+l.75 ...]{Modelos de referências}}{81}{chapter.4}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1354,7 +1354,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.72 ...]{Modelos de referências}}{81}{chapter.4}
+l.75 ...]{Modelos de referências}}{81}{chapter.4}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1367,7 +1367,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.72 ...]{Modelos de referências}}{81}{chapter.4}
+l.75 ...]{Modelos de referências}}{81}{chapter.4}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1376,39 +1376,39 @@ Check that you have spelled the key name correctly.
 
 
 [24]
-Overfull \hbox (1.5877pt too wide) detected at line 104
+Overfull \hbox (1.5877pt too wide) detected at line 107
  \T1/lmss/bx/n/12 113
  []
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 117
+Overfull \hbox (1.5877pt too wide) detected at line 120
  \T1/lmss/bx/n/12 125
  []
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 118
+Overfull \hbox (1.5877pt too wide) detected at line 121
  \T1/lmss/bx/n/12 128
  []
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 119
+Overfull \hbox (1.5877pt too wide) detected at line 122
  \T1/lmss/bx/n/12 129
  []
 
-
-Overfull \hbox (1.5877pt too wide) detected at line 124
+[25]
+Overfull \hbox (1.5877pt too wide) detected at line 127
  \T1/lmss/bx/n/12 134
  []
 
-[25]
-Overfull \hbox (1.5877pt too wide) detected at line 135
+
+Overfull \hbox (1.5877pt too wide) detected at line 138
  \T1/lmss/bx/n/12 142
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.144 ...Uppercase []{Conclusão}}{151}{chapter.5}
+l.147 ...Uppercase []{Conclusão}}{151}{chapter.5}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1422,7 +1422,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.144 ...Uppercase []{Conclusão}}{151}{chapter.5}
+l.147 ...Uppercase []{Conclusão}}{151}{chapter.5}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1435,7 +1435,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.144 ...Uppercase []{Conclusão}}{151}{chapter.5}
+l.147 ...Uppercase []{Conclusão}}{151}{chapter.5}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1444,25 +1444,25 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 144
+Overfull \hbox (1.5877pt too wide) detected at line 147
  \T1/lmss/bx/n/12 151
  []
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 147
+Overfull \hbox (1.5877pt too wide) detected at line 150
  \T1/lmss/bx/n/12 153
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 151.
+(Font)              <14.4> on input line 154.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 151.
+(Font)              <10> on input line 154.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 151.
+(Font)              <7> on input line 154.
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.155 ...percase []{Apendice(s)}}{165}{appendix.A}
+l.158 ...percase []{Apendice(s)}}{165}{appendix.A}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1476,7 +1476,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.155 ...percase []{Apendice(s)}}{165}{appendix.A}
+l.158 ...percase []{Apendice(s)}}{165}{appendix.A}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1489,7 +1489,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.155 ...percase []{Apendice(s)}}{165}{appendix.A}
+l.158 ...percase []{Apendice(s)}}{165}{appendix.A}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1498,14 +1498,14 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 155
+Overfull \hbox (1.5877pt too wide) detected at line 158
  \T1/lmss/bx/n/12 165
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.159 ...�s-Graduação da EESC}}{167}{appendix.B}
+l.162 ...�s-Graduação da EESC}}{167}{appendix.B}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1519,7 +1519,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.159 ...�s-Graduação da EESC}}{167}{appendix.B}
+l.162 ...�s-Graduação da EESC}}{167}{appendix.B}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1532,7 +1532,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.159 ...�s-Graduação da EESC}}{167}{appendix.B}
+l.162 ...�s-Graduação da EESC}}{167}{appendix.B}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1541,19 +1541,19 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 159
+Overfull \hbox (1.5877pt too wide) detected at line 162
  \T1/lmss/bx/n/12 167
  []
 
 
-Overfull \hbox (13.87018pt too wide) in paragraph at lines 159--159
+Overfull \hbox (13.87018pt too wide) in paragraph at lines 162--162
  [][] [][][]\T1/lmss/bx/n/12 (-20) SIGLAS DOS PRO-GRA-MAS DE P�S-GRADUA��O 
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.163 ...ós-Graduação do IAU}}{171}{appendix.C}
+l.166 ...ós-Graduação do IAU}}{171}{appendix.C}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1567,7 +1567,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.163 ...ós-Graduação do IAU}}{171}{appendix.C}
+l.166 ...ós-Graduação do IAU}}{171}{appendix.C}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1580,7 +1580,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.163 ...ós-Graduação do IAU}}{171}{appendix.C}
+l.166 ...ós-Graduação do IAU}}{171}{appendix.C}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1589,19 +1589,19 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 163
+Overfull \hbox (1.5877pt too wide) detected at line 166
  \T1/lmss/bx/n/12 171
  []
 
 
-Overfull \hbox (13.87018pt too wide) in paragraph at lines 163--163
+Overfull \hbox (13.87018pt too wide) in paragraph at lines 166--166
  [][] [][][]\T1/lmss/bx/n/12 (-20) SIGLAS DOS PRO-GRA-MAS DE P�S-GRADUA��O 
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.167 ...�s-Graduação do ICMC}}{173}{appendix.D}
+l.170 ...�s-Graduação do ICMC}}{173}{appendix.D}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1615,7 +1615,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.167 ...�s-Graduação do ICMC}}{173}{appendix.D}
+l.170 ...�s-Graduação do ICMC}}{173}{appendix.D}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1628,7 +1628,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.167 ...�s-Graduação do ICMC}}{173}{appendix.D}
+l.170 ...�s-Graduação do ICMC}}{173}{appendix.D}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1637,19 +1637,19 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 167
+Overfull \hbox (1.5877pt too wide) detected at line 170
  \T1/lmss/bx/n/12 173
  []
 
 
-Overfull \hbox (13.87018pt too wide) in paragraph at lines 167--167
+Overfull \hbox (13.87018pt too wide) in paragraph at lines 170--170
  [][] [][][]\T1/lmss/bx/n/12 (-20) SIGLAS DOS PRO-GRA-MAS DE P�S-GRADUA��O 
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.171 ...�s-Graduação do IFSC}}{175}{appendix.E}
+l.174 ...�s-Graduação do IFSC}}{175}{appendix.E}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1663,7 +1663,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.171 ...�s-Graduação do IFSC}}{175}{appendix.E}
+l.174 ...�s-Graduação do IFSC}}{175}{appendix.E}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1676,7 +1676,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.171 ...�s-Graduação do IFSC}}{175}{appendix.E}
+l.174 ...�s-Graduação do IFSC}}{175}{appendix.E}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1685,19 +1685,23 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 171
+Overfull \hbox (1.5877pt too wide) detected at line 174
  \T1/lmss/bx/n/12 175
  []
 
 
-Overfull \hbox (13.87018pt too wide) in paragraph at lines 171--171
+Overfull \hbox (13.87018pt too wide) in paragraph at lines 174--174
  [][] [][][]\T1/lmss/bx/n/12 (-20) SIGLAS DOS PRO-GRA-MAS DE P�S-GRADUA��O 
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.175 ...�s-Graduação do IQSC}}{177}{appendix.F}
+l.178 ...�s-Graduação do IQSC}}{177}{appendix.F}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1711,7 +1715,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.175 ...�s-Graduação do IQSC}}{177}{appendix.F}
+l.178 ...�s-Graduação do IQSC}}{177}{appendix.F}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1724,7 +1728,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.175 ...�s-Graduação do IQSC}}{177}{appendix.F}
+l.178 ...�s-Graduação do IQSC}}{177}{appendix.F}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1733,19 +1737,19 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 175
+Overfull \hbox (1.5877pt too wide) detected at line 178
  \T1/lmss/bx/n/12 177
  []
 
 
-Overfull \hbox (13.87018pt too wide) in paragraph at lines 175--175
+Overfull \hbox (13.87018pt too wide) in paragraph at lines 178--178
  [][] [][][]\T1/lmss/bx/n/12 (-20) SIGLAS DOS PRO-GRA-MAS DE P�S-GRADUA��O 
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.179 ...de Graduação da EESC}}{179}{appendix.G}
+l.182 ...de Graduação da EESC}}{179}{appendix.G}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1759,7 +1763,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.179 ...de Graduação da EESC}}{179}{appendix.G}
+l.182 ...de Graduação da EESC}}{179}{appendix.G}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1772,7 +1776,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.179 ...de Graduação da EESC}}{179}{appendix.G}
+l.182 ...de Graduação da EESC}}{179}{appendix.G}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1781,15 +1785,14 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 179
+Overfull \hbox (1.5877pt too wide) detected at line 182
  \T1/lmss/bx/n/12 179
  []
 
-[26]
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.183 ...ente e horizontalmente}}{181}{appendix.H}
+l.186 ...ente e horizontalmente}}{181}{appendix.H}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1803,7 +1806,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.183 ...ente e horizontalmente}}{181}{appendix.H}
+l.186 ...ente e horizontalmente}}{181}{appendix.H}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1816,7 +1819,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.183 ...ente e horizontalmente}}{181}{appendix.H}
+l.186 ...ente e horizontalmente}}{181}{appendix.H}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1825,14 +1828,14 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 183
+Overfull \hbox (1.5877pt too wide) detected at line 186
  \T1/lmss/bx/n/12 181
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.187 ...lo de tabela com grade}}{183}{appendix.I}
+l.190 ...lo de tabela com grade}}{183}{appendix.I}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1846,7 +1849,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.187 ...lo de tabela com grade}}{183}{appendix.I}
+l.190 ...lo de tabela com grade}}{183}{appendix.I}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1859,7 +1862,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.187 ...lo de tabela com grade}}{183}{appendix.I}
+l.190 ...lo de tabela com grade}}{183}{appendix.I}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1868,14 +1871,14 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 187
+Overfull \hbox (1.5877pt too wide) detected at line 190
  \T1/lmss/bx/n/12 183
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.196 ...de anexo}}{187}{appendix.anexochapback.1}
+l.199 ...de anexo}}{187}{appendix.anexochapback.1}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1889,7 +1892,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.196 ...de anexo}}{187}{appendix.anexochapback.1}
+l.199 ...de anexo}}{187}{appendix.anexochapback.1}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1902,7 +1905,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.196 ...de anexo}}{187}{appendix.anexochapback.1}
+l.199 ...de anexo}}{187}{appendix.anexochapback.1}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1911,14 +1914,14 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 196
+Overfull \hbox (1.5877pt too wide) detected at line 199
  \T1/lmss/bx/n/12 187
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.200 ...\LaTeX )}}{189}{appendix.anexochapback.2}
+l.203 ...\LaTeX )}}{189}{appendix.anexochapback.2}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1932,7 +1935,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.200 ...\LaTeX )}}{189}{appendix.anexochapback.2}
+l.203 ...\LaTeX )}}{189}{appendix.anexochapback.2}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1945,7 +1948,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.200 ...\LaTeX )}}{189}{appendix.anexochapback.2}
+l.203 ...\LaTeX )}}{189}{appendix.anexochapback.2}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1954,14 +1957,14 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 200
+Overfull \hbox (1.5877pt too wide) detected at line 203
  \T1/lmss/bx/n/12 189
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.204 ... \LaTeX }}{191}{appendix.anexochapback.3}
+l.207 ... \LaTeX }}{191}{appendix.anexochapback.3}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1975,7 +1978,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.204 ... \LaTeX }}{191}{appendix.anexochapback.3}
+l.207 ... \LaTeX }}{191}{appendix.anexochapback.3}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1988,7 +1991,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.204 ... \LaTeX }}{191}{appendix.anexochapback.3}
+l.207 ... \LaTeX }}{191}{appendix.anexochapback.3}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1997,14 +2000,14 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 204
+Overfull \hbox (1.5877pt too wide) detected at line 207
  \T1/lmss/bx/n/12 191
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.208 ... \LaTeX }}{193}{appendix.anexochapback.4}
+l.211 ... \LaTeX }}{193}{appendix.anexochapback.4}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -2018,7 +2021,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.208 ... \LaTeX }}{193}{appendix.anexochapback.4}
+l.211 ... \LaTeX }}{193}{appendix.anexochapback.4}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -2031,7 +2034,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.208 ... \LaTeX }}{193}{appendix.anexochapback.4}
+l.211 ... \LaTeX }}{193}{appendix.anexochapback.4}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -2040,12 +2043,12 @@ Check that you have spelled the key name correctly.
 
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 208
+Overfull \hbox (1.5877pt too wide) detected at line 211
  \T1/lmss/bx/n/12 193
  []
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 211
+Overfull \hbox (1.5877pt too wide) detected at line 214
  \T1/lmss/bx/n/12 195
  []
 
@@ -2055,22 +2058,13 @@ Overfull \hbox (1.5877pt too wide) detected at line 211
 \openout2 = `USPSC-Cap1-Introducao.aux'.
 
  (USPSC-Cap1-Introducao.tex
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
- []
-
-) [30]
+])
+[30]
 \openout2 = `USPSC-Cap2-Desenvolvimento.aux'.
 
  (USPSC-Cap2-Desenvolvimento.tex [31
@@ -2079,7 +2073,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
 
 ]
-<USPSC-EstruturaTrabAcad.jpg, id=571, 625.58719pt x 514.92375pt>
+<USPSC-EstruturaTrabAcad.jpg, id=584, 625.58719pt x 514.92375pt>
 File: USPSC-EstruturaTrabAcad.jpg Graphic file (type jpg)
 <use USPSC-EstruturaTrabAcad.jpg>
 Package pdftex.def Info: USPSC-EstruturaTrabAcad.jpg  used on input line 32.
@@ -2194,7 +2188,7 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.676 
       ]
-<USPSC-modelo-img-grafico.pdf, id=734, 847.165pt x 314.17375pt>
+<USPSC-modelo-img-grafico.pdf, id=747, 847.165pt x 314.17375pt>
 File: USPSC-modelo-img-grafico.pdf Graphic file (type pdf)
 <use USPSC-modelo-img-grafico.pdf>
 Package pdftex.def Info: USPSC-modelo-img-grafico.pdf  used on input line 679.
@@ -2229,7 +2223,7 @@ has been already used, duplicate ignored
 l.723 	Q
         ualquer que seja o tipo de ilustração, sua identificação aparece...
  <./USPSC-modelo-img-grafico.pdf>]
-<USPSC-modelo-img-marca.pdf, id=775, 227.51701pt x 72.2695pt>
+<USPSC-modelo-img-marca.pdf, id=788, 227.51701pt x 72.2695pt>
 File: USPSC-modelo-img-marca.pdf Graphic file (type pdf)
 <use USPSC-modelo-img-marca.pdf>
 Package pdftex.def Info: USPSC-modelo-img-marca.pdf  used on input line 745.
@@ -4164,7 +4158,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 ] [188
 
 ]
-<USPSC-AcentuacaoLaTeX.png, id=1971, 225.84375pt x 353.06906pt>
+<USPSC-AcentuacaoLaTeX.png, id=1984, 225.84375pt x 353.06906pt>
 File: USPSC-AcentuacaoLaTeX.png Graphic file (type png)
 <use USPSC-AcentuacaoLaTeX.png>
 Package pdftex.def Info: USPSC-AcentuacaoLaTeX.png  used on input line 21.
@@ -4179,7 +4173,7 @@ l.26 \chapter
 [190
 
 ]
-<USPSC-SimbolosUteis.png, id=1984, 212.29312pt x 266.49562pt>
+<USPSC-SimbolosUteis.png, id=1997, 212.29312pt x 266.49562pt>
 File: USPSC-SimbolosUteis.png Graphic file (type png)
 <use USPSC-SimbolosUteis.png>
 Package pdftex.def Info: USPSC-SimbolosUteis.png  used on input line 30.
@@ -4193,7 +4187,7 @@ l.36 \chapter
              {Letras gregas em \LaTeX} <./USPSC-SimbolosUteis.png>] [192
 
 ]
-<USPSC-LetrasGregas.png, id=1996, 326.72063pt x 449.42906pt>
+<USPSC-LetrasGregas.png, id=2009, 326.72063pt x 449.42906pt>
 File: USPSC-LetrasGregas.png Graphic file (type png)
 <use USPSC-LetrasGregas.png>
 Package pdftex.def Info: USPSC-LetrasGregas.png  used on input line 40.
@@ -4242,13 +4236,17 @@ enddocument/afterlastpage: lastpage setting LastPage.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-16>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 22053 strings out of 476037
- 366718 string characters out of 5779845
+ 22089 strings out of 476037
+ 367471 string characters out of 5779845
  1887763 words of memory out of 5000000
- 41415 multiletter control sequences out of 15000+600000
- 605379 words of font info for 237 fonts, out of 8000000 for 9000
+ 41441 multiletter control sequences out of 15000+600000
+ 605476 words of font info for 238 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,17n,93p,2684b,825s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -4326,9 +4324,9 @@ sbx10.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 msy10.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 msy8.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
 tt12.pfb>
-Output written on USPSC-TCC-modelo-ICMC.pdf (197 pages, 1459689 bytes).
+Output written on USPSC-TCC-modelo-ICMC.pdf (197 pages, 1464397 bytes).
 PDF statistics:
- 2720 PDF objects out of 2984 (max. 8388607)
- 624 named destinations out of 1000 (max. 500000)
- 53507 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 2744 PDF objects out of 2984 (max. 8388607)
+ 632 named destinations out of 1000 (max. 500000)
+ 53531 words of extra memory for PDF output out of 61914 (max. 10000000)
 

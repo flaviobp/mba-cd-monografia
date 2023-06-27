@@ -5,42 +5,20 @@
 % ----------------------------------------------------------
 \chapter[Introdução]{Introdução}
 
+A inflação tem um impacto significativo na economia, afetando as decisões tomadas pelos agentes econômicos e na definição da taxa de juros pela autoridade monetária. Desde 1999, o Brasil adotou o regime de metas de inflação que busca estabelecer limites para a inflação medida em um ano com um valor central e um intervalo de tolerância definidos. Nesse contexto, a autoridade monetária trabalha para prever o comportamento da inflação futura e ajustar a política monetária para atingir a meta estabelecida e amparar as expectativas dos agentes econômicos em um sentido de convergência para o controle inflacionário. Isso é fundamental para a estabilidade econômica, influenciando decisões de investimento, o nível de emprego e o poder de compra das famílias.
 
-Parte inicial do texto, que contém a delimitação do assunto tratado, objetivos da pesquisa e outros elementos necessários para apresentar o tema do trabalho \cite{sibi2016}.
+Assim, a previsão da inflação futura é crucial, dada a incerteza do cenário econômico, e o Banco Central (BC) disponibiliza informações sobre projeções e  perspectivas em seus Relatórios de Inflação, bem como sintetiza pesquisas de expectativas de mercado publicadas no Boletim Focus. Nesse contexto, a utilização de métodos de aprendizagem de máquina pode ser uma ferramenta valiosa para formuladores de políticas econômicas e agentes econômicos nas tomadas de decisões.
 
-A equipe de desenvolvimento e manutenção do Pacote USPSC, composto da Classe USPSC e de modelos para trabalhos acadêmicos em \LaTeX\ utilizando a classe USPSC, foi estabelecida em decorrência da iniciativa em 24 de abril de 2015 da bibliotecária Eliana de Cássia Aquareli Cordeiro do Serviço de Biblioteca e Informação do Instituto de Química de São Carlos (IQSC) da Universidade de São Paulo (USP). É integralmente composta por pessoas vinculadas às Bibliotecas das Unidades do Campus USP de São Carlos, incluindo a Biblioteca da Prefeitura do Campus USP de São Carlos (PUSP-SC), para garantir a sustentabilidade deste produto, tendo autonomia para implementar novos recursos, efetuar compatibilizações necessárias em decorrência de alterações de normas da ABNT e/ou normas e padrões estabelecidos pelas comissões de pós-graduação das Unidades, incluir novos programas de pós-graduação das Unidades, dentre outras razões. 
+\section{Revisão bibliográfica}\label{sec-revisao-bibliografica}
 
-A versão 2.0 do Pacote USPSC inclui a \textbf{Classe USPSC}, o \textbf{Modelo para TCC em \LaTeX\ utilizando a classe USPSC} e o \textbf{Modelo para teses e dissertações em \LaTeX\ utilizando a classe USPSC}.
+Nos últimos anos, a utilização de técnicas de aprendizagem de máquina tem ganhado destaque em análises econômicas, principalmente em tarefas de predição, superando em alguns casos as abordagens tradicionais. Em \citeonline{chakraborty2017machine}, são apresentados exemplos de estudos de caso que destacam os métodos de aprendizagem de máquina em contextos de bancos centrais. \citeonline{hall2018machine} apresenta uma modelagem para previsão da taxa de desemprego utilizando métodos de aprendizagem de máquina. Já \citeonline{costa2021machine} exploram uma abordagem para previsão de preços de petróleo em curto e médio prazo utilizando métodos de aprendizagem de máquina.
 
-O Modelo para TCC está disponível inicialmente apenas para EESC e será estendido às demais Unidades de Ensino do Campus USP de São Carlos a medida que as mesmas definirem seus padrões.
+No contexto de previsão da inflação, \citeonline{medeiros2021forecasting} demonstram a aplicação do modelo de random forest com resultados mais precisos na previsão da inflação nos EUA em comparação a métodos tradicionais. Em \citeonline{araujo2023machine}, é apresentado um estudo comparativo entre métodos de aprendizagem de máquina e modelos econométricos tradicionais utilizando mais de 501 séries macroeconômicas, para prever a inflação no Brasil, resultando em bons desempenhos para os métodos baseados em árvore.
 
-\textbf{Programação}
+\section{Objetivos do trabalho}\label{sec-objetivos}
 
-  - Marilza Aparecida Rodrigues Tognetti - marilza@sc.usp.br (PUSP-SC)
-		
-  - Ana Paula Aparecida Calabrez - aninha@sc.usp.br (PUSP-SC) \\
-	
-	
-\textbf{Normalização e Padronização}
+Portanto, o objetivo deste trabalho, é aplicar métodos de aprendizagem de máquina na previsão da inflação no Brasil utilizando séries macroeconômicas divulgadas por organizações e institutos de pesquisas, como Banco Central e IBGE. Para isso, montaremos uma base de dados de séries temporais para prever a inflação a partir de APIs públicas, e iremos estudar a aplicação de métodos de aprendizagem de máquina em séries temporais em um contexto macroeconômico com finalidade de se obter modelos satisfatórios para predição da inflação quando comparados com os métodos tradicionais divulgados pelo Banco Central, como o Boletim Focus.
 
-   - Ana Paula Aparecida Calabrez - aninha@sc.usp.br (PUSP-SC)
-	
-   - Brianda de Oliveira Ordonho Sigolo - brianda@usp.br (IAU)	
-	
-   - Elena Luzia Palloni Gonçalves - elena@sc.usp.br (EESC)	
-	
-   - Eliana de Cássia Aquareli Cordeiro - eliana@iqsc.usp.br (IQSC)	
-	
-   - Flávia Helena Cassin - cassinp@sc.usp.br (EESC)
-	
-   - Maria Cristina Cavarette Dziabas - mcdziaba@ifsc.usp.br (IFSC)
-	
-	 - Marilza Aparecida Rodrigues Tognetti - marilza@sc.usp.br (PUSP-SC)
-	
-	 - Regina Célia Vidal Medeiros - rcvm@icmc.usp.br (ICMC) \\
-	
-	O objetivo do presente trabalho é apresentar a \textbf{Classe USPSC}, \textbf{Modelo para TCC em \LaTeX\ utilizando a classe USPSC} e o \textbf{Modelo para teses e dissertações em \LaTeX\ utilizando a classe USPSC}, concebidos em conformidade com a \textbf{ABNT NBR 14724} \cite{nbr14724}, as \textbf{Diretrizes para apresentação de dissertações e teses da USP} \cite{sibi2016} e normas e padrões estabelecidos pelas Unidades. 
-	
-	A expectativa é que a classe USPSC e os modelos propostos aprimorem a qualidade dos trabalhos acadêmicos produzidos pelos alunos de graduação e de pós-graduação das referidas Unidades de Ensino e Pesquisa do Campus USP de São Carlos, garantindo a normalização e padronização estabelecidas.
-	
-	
+\section{Estrutura do trabalho}\label{sec-estrutura}
+
+O presente trabalho foi estruturado em quatro capítulos. No primeiro capítulo, é realizada uma introdução com ênfase na importância e relevância do tema, além de fornecer uma revisão bibliográfica abrangente e objetivos de pesquisa delimitados. No segundo capítulo, é apresentada a metodologia aplicada no desenvolvimento deste trabalho, descrevendo detalhadamente a coleta de dados e os métodos teóricos empregados. Os resultados obtidos são discutidos no terceiro capítulo, que engloba uma análise descritiva dos dados coletados, bem como a utilização de métricas e comparações de desempenho entre diferentes métodos de aprendizagem de máquina aplicados à previsão da inflação. Por fim, no quarto capítulo, apresentamos as conclusões deste trabalho, resumindo os principais resultados obtidos e sugestões e indicações para trabalhos futuros, com novas possibilidades de estudo sobre o tema.

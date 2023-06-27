@@ -1,4 +1,24 @@
 - modelo utilizado USPSC-v2.1
 - To comment several lines at once in TeXMaker, select the lines and click Ctrl+T. To uncomment, click Ctrl+U.
 - arquivo principal USPSC-TCC-modelo-ICMC.TEX
+- https://tex.stackexchange.com/questions/604406/git-changes-line-endings-from-lf-to-crlf-can-this-cause-any-problems
+
+I’m not aware of any problems, but you can configure git to change line endings or not with the command
+
+git config --global core.autocrlf true
+You can also declare .tex, .dtx, .cls, etc. as text files and declare how their line endings will be handled in .gitattributes. Adding a line like
+
+*.tex text
+will tell git that all files with the tex extension should have their line ends converted, to LF on Linux/UNIX or CRLF on Windows. Conversely, the line
+
+*.tex text eol=lf
+tells git that a .tex file should keep its UNIX line ends even on Windows.
+
+- modo local
+Execute o seguinte comando para definir a opção core.autocrlf como "false" apenas para o repositório atual:
+
+
+git config core.autocrlf false
+
+Ao desativar essa configuração, você assume a responsabilidade de garantir a consistência dos formatos de quebra de linha nos arquivos ao compartilhá-los com outros colaboradores. É importante considerar o ambiente de trabalho em que você e seus colaboradores estão trabalhando para evitar problemas de compatibilidade nos formatos de quebra de linha.
 

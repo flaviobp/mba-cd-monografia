@@ -1,24 +1,55 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: USPSC-TCC-modelo-ICMC.aux
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: USPSC-TCC-modelo-ICMC.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
 A level-1 auxiliary file: USPSC-Dedicatoria.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
 A level-1 auxiliary file: USPSC-Agradecimentos.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: USPSC-Resumo.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
 A level-1 auxiliary file: USPSC-Abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
 A level-1 auxiliary file: USPSC-Cap1-Introducao.aux
+Reallocating 'name_of_file' (item size: 1) to 31 items.
 A level-1 auxiliary file: USPSC-Cap2-Desenvolvimento.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
 A level-1 auxiliary file: USPSC-Cap3-Citacoes.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: USPSC-Cap4-Referencias.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
 A level-1 auxiliary file: USPSC-Cap5-Conclusao.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: USPSC-Apendices.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: USPSC-Anexos.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
 A level-1 auxiliary file: USPSC-IndicesRemissivos.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
 The style file: abntex2-alf.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'field_info' (item size: 4) to 14522 items.
 Database file #1: abntex2-options.bib
 Database file #2: USPSC-modelo-references.bib
 Warning--entry type for "Castro1990" isn't style-file defined
---line 270 of file USPSC-modelo-references.bib
+--line 537 of file USPSC-modelo-references.bib
 Warning--entry type for "Vicente2010" isn't style-file defined
---line 1233 of file USPSC-modelo-references.bib
+--line 2463 of file USPSC-modelo-references.bib
 Warning--I didn't find a database entry for "abnt-etal-cite"
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
 Warning--campo year vazio ou faltando em Barbosa2002
 Warning--campo year vazio ou faltando em bionline
 Warning--campo year vazio ou faltando em Bruckman2002
@@ -26,8 +57,49 @@ Warning--campo year vazio ou faltando em Miyaura
 Warning--campo year vazio ou faltando em science2006
 Warning--campo year vazio ou faltando em Vicente2010
 +---------------------------------------------------------+
-| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
+You've used 137 entries,
+            6714 wiz_defined-function locations,
+            2129 strings with 31624 characters,
+and the built_in function-call counts, 131917 in all, are:
+= -- 14225
+> -- 2100
+< -- 2181
++ -- 3044
+- -- 642
+* -- 8154
+:= -- 15755
+add.period$ -- 563
+call.type$ -- 139
+change.case$ -- 1108
+chr.to.int$ -- 242
+cite$ -- 132
+duplicate$ -- 11420
+empty$ -- 8466
+format.name$ -- 3057
+if$ -- 29850
+int.to.chr$ -- 13
+int.to.str$ -- 1
+missing$ -- 2409
+newline$ -- 595
+num.names$ -- 397
+pop$ -- 2911
+preamble$ -- 1
+purify$ -- 468
+quote$ -- 0
+skip$ -- 11779
+stack$ -- 1
+substring$ -- 5056
+swap$ -- 4273
+text.length$ -- 106
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 149
+warning$ -- 6
+while$ -- 609
+width$ -- 0
+write$ -- 2065
 (There were 9 warnings)

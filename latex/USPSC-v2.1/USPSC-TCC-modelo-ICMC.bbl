@@ -3,7 +3,7 @@
 \setlength{\labelsep}{0pt}\begin{thebibliography}{}
 \providecommand{\abntrefinfo}[3]{}
 \providecommand{\abntbstabout}[1]{}
-\abntbstabout{v-1.9.6 }
+\abntbstabout{v-1.9.7 }
 
 \bibitem[A BETTER investiment climate for everyone 2004]{abetter2004}
 \abntrefinfo{A Better}{A BETTER}{2004}
@@ -57,6 +57,13 @@ Dispon{\'\i}vel em:
   Law}{ANNUAL MEETING OF THE AMERICAN SOCIETY OF INTERNATIONAL LAW}{1967}
 {ANNUAL MEETING OF THE AMERICAN SOCIETY OF INTERNATIONAL LAW, 65., 1997,
   Washington. \textbf{Proceedings...} Washington: ASIL, 1967. 227~p.}
+
+\bibitem[Araujo e Gaglianone 2023]{araujo2023machine}
+\abntrefinfo{Araujo e Gaglianone}{ARAUJO; GAGLIANONE}{2023}
+{ARAUJO, G.~S.; GAGLIANONE, W.~P. Machine learning methods for inflation
+  forecasting in brazil: New contenders versus classical models.
+\textbf{Latin American Journal of Central Banking}, Elsevier, v.~4, n.~2, p.
+  100087, 2023.}
 
 \bibitem[Araujo 2012]{araujo2012}
 \abntrefinfo{Araujo}{ARAUJO}{2012}
@@ -286,6 +293,11 @@ Relatório da Missão de Avaliação do Projeto BRA/87/037.}
   Júnior. [S.l.]: Le Studio Canal; Riofilme; MACT Productions, 1998. 1 bobina
   cinematográfica (106 min), son., color., 35 mm.}
 
+\bibitem[Chakraborty e Joseph 2017]{chakraborty2017machine}
+\abntrefinfo{Chakraborty e Joseph}{CHAKRABORTY; JOSEPH}{2017}
+{CHAKRABORTY, C.; JOSEPH, A. Machine learning at central banks.
+Bank of England working paper, 2017.}
+
 \bibitem[Cochrane Injuries Group Albumin Reviewers 1998]{Cochrane1998}
 \abntrefinfo{Cochrane Injuries Group Albumin Reviewers}{COCHRANE INJURIES GROUP
   ALBUMIN REVIEWERS}{1998}
@@ -320,6 +332,12 @@ Relatório da Missão de Avaliação do Projeto BRA/87/037.}
   \textbf{Anais eletrônicos}. Recife: UFPe, 1996.
 Dispon{\'\i}vel em: \url{http://www.propesq.ufpe.br/anais/anais/educ/ce04.htm}.
   Acesso em: 21 jan. 1997.}
+
+\bibitem[Costa et al. 2021]{costa2021machine}
+\abntrefinfo{Costa et al.}{COSTA et al.}{2021}
+{COSTA, A. B.~R. et al. Machine learning and oil price point and density
+  forecasting.
+\textbf{Energy Economics}, Elsevier, v.~102, p. 105494, 2021.}
 
 \bibitem[Costa 2002]{Costa2002}
 \abntrefinfo{Costa}{COSTA}{2002}
@@ -435,6 +453,12 @@ In press.}
 {GUBITOSO, M.~D. \textbf{Máquina worm}: simulador de máquinas paralelas. São
   Paulo: IME-USP, 1989. 29~p. Relatório técnico, Rt-Mac-8908.}
 
+\bibitem[Hall et al. 2018]{hall2018machine}
+\abntrefinfo{Hall et al.}{HALL et al.}{2018}
+{HALL, A.~S. et al. Machine learning approaches to macroeconomic forecasting.
+\textbf{The Federal Reserve Bank of Kansas City Economic Review}, v.~103,
+  n.~63, p.~2, 2018.}
+
 \bibitem[Harrison 2001]{Harrison2001}
 \abntrefinfo{Harrison}{HARRISON}{2001}
 {HARRISON, P. Update on pain management for advanced genitourinary cancer.
@@ -517,6 +541,13 @@ Dispon{\'\i}vel em: \url{http://www.plosmedicine.org}. Acesso em: 15 mar.
   diabetes mellitus: a critical review.
 \textbf{Clinical Therapetucis}, Princeton, v.~22, n.~10, p. 1151--1168, 2000.
 Errata em: Clinical Therapeutics, Princeton, v. 23, n. 2, p. 309, 2001.}
+
+\bibitem[Medeiros et al. 2021]{medeiros2021forecasting}
+\abntrefinfo{Medeiros et al.}{MEDEIROS et al.}{2021}
+{MEDEIROS, M.~C. et al. Forecasting inflation in a data-rich environment: the
+  benefits of machine learning methods.
+\textbf{Journal of Business \& Economic Statistics}, Taylor \& Francis, v.~39,
+  n.~1, p. 98--119, 2021.}
 
 \bibitem[Meyaard et al. 2003]{Meyaard2003}
 \abntrefinfo{Meyaard et al.}{MEYAARD et al.}{2003}
