@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.24)  27 JUN 2023 00:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.24)  27 JUN 2023 21:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1263,7 +1263,7 @@ Check that you have spelled the key name correctly.
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.17 ...ercase []{Desenvolvimento}}{31}{chapter.2}
+l.17 ...ercase []{Desenvolvimento}}{33}{chapter.2}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1277,7 +1277,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.17 ...ercase []{Desenvolvimento}}{31}{chapter.2}
+l.17 ...ercase []{Desenvolvimento}}{33}{chapter.2}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1290,7 +1290,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.17 ...ercase []{Desenvolvimento}}{31}{chapter.2}
+l.17 ...ercase []{Desenvolvimento}}{33}{chapter.2}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1302,7 +1302,7 @@ Check that you have spelled the key name correctly.
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.60 ...keUppercase []{Citações}}{57}{chapter.3}
+l.60 ...keUppercase []{Citações}}{59}{chapter.3}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1316,7 +1316,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.60 ...keUppercase []{Citações}}{57}{chapter.3}
+l.60 ...keUppercase []{Citações}}{59}{chapter.3}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1329,7 +1329,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.60 ...keUppercase []{Citações}}{57}{chapter.3}
+l.60 ...keUppercase []{Citações}}{59}{chapter.3}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1340,7 +1340,7 @@ Check that you have spelled the key name correctly.
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.75 ...]{Modelos de referências}}{81}{chapter.4}
+l.75 ...]{Modelos de referências}}{83}{chapter.4}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1354,7 +1354,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.75 ...]{Modelos de referências}}{81}{chapter.4}
+l.75 ...]{Modelos de referências}}{83}{chapter.4}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1367,7 +1367,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.75 ...]{Modelos de referências}}{81}{chapter.4}
+l.75 ...]{Modelos de referências}}{83}{chapter.4}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1377,38 +1377,38 @@ Check that you have spelled the key name correctly.
 
 [24]
 Overfull \hbox (1.5877pt too wide) detected at line 107
- \T1/lmss/bx/n/12 113
+ \T1/lmss/bx/n/12 115
  []
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 120
- \T1/lmss/bx/n/12 125
+ \T1/lmss/bx/n/12 127
  []
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 121
- \T1/lmss/bx/n/12 128
+ \T1/lmss/bx/n/12 130
  []
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 122
- \T1/lmss/bx/n/12 129
+ \T1/lmss/bx/n/12 131
  []
 
 [25]
 Overfull \hbox (1.5877pt too wide) detected at line 127
- \T1/lmss/bx/n/12 134
+ \T1/lmss/bx/n/12 136
  []
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 138
- \T1/lmss/bx/n/12 142
+ \T1/lmss/bx/n/12 144
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.147 ...Uppercase []{Conclusão}}{151}{chapter.5}
+l.147 ...Uppercase []{Conclusão}}{153}{chapter.5}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1422,7 +1422,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.147 ...Uppercase []{Conclusão}}{151}{chapter.5}
+l.147 ...Uppercase []{Conclusão}}{153}{chapter.5}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1435,7 +1435,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.147 ...Uppercase []{Conclusão}}{151}{chapter.5}
+l.147 ...Uppercase []{Conclusão}}{153}{chapter.5}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1445,12 +1445,12 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 147
- \T1/lmss/bx/n/12 151
+ \T1/lmss/bx/n/12 153
  []
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 150
- \T1/lmss/bx/n/12 153
+ \T1/lmss/bx/n/12 155
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1462,7 +1462,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.158 ...percase []{Apendice(s)}}{165}{appendix.A}
+l.158 ...percase []{Apendice(s)}}{167}{appendix.A}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1476,7 +1476,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.158 ...percase []{Apendice(s)}}{165}{appendix.A}
+l.158 ...percase []{Apendice(s)}}{167}{appendix.A}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1489,7 +1489,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.158 ...percase []{Apendice(s)}}{165}{appendix.A}
+l.158 ...percase []{Apendice(s)}}{167}{appendix.A}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1499,13 +1499,13 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 158
- \T1/lmss/bx/n/12 165
+ \T1/lmss/bx/n/12 167
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.162 ...�s-Graduação da EESC}}{167}{appendix.B}
+l.162 ...�s-Graduação da EESC}}{169}{appendix.B}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1519,7 +1519,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.162 ...�s-Graduação da EESC}}{167}{appendix.B}
+l.162 ...�s-Graduação da EESC}}{169}{appendix.B}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1532,7 +1532,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.162 ...�s-Graduação da EESC}}{167}{appendix.B}
+l.162 ...�s-Graduação da EESC}}{169}{appendix.B}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1542,7 +1542,7 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 162
- \T1/lmss/bx/n/12 167
+ \T1/lmss/bx/n/12 169
  []
 
 
@@ -1553,7 +1553,7 @@ Overfull \hbox (13.87018pt too wide) in paragraph at lines 162--162
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.166 ...ós-Graduação do IAU}}{171}{appendix.C}
+l.166 ...ós-Graduação do IAU}}{173}{appendix.C}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1567,7 +1567,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.166 ...ós-Graduação do IAU}}{171}{appendix.C}
+l.166 ...ós-Graduação do IAU}}{173}{appendix.C}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1580,7 +1580,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.166 ...ós-Graduação do IAU}}{171}{appendix.C}
+l.166 ...ós-Graduação do IAU}}{173}{appendix.C}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1590,7 +1590,7 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 166
- \T1/lmss/bx/n/12 171
+ \T1/lmss/bx/n/12 173
  []
 
 
@@ -1601,7 +1601,7 @@ Overfull \hbox (13.87018pt too wide) in paragraph at lines 166--166
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.170 ...�s-Graduação do ICMC}}{173}{appendix.D}
+l.170 ...�s-Graduação do ICMC}}{175}{appendix.D}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1615,7 +1615,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.170 ...�s-Graduação do ICMC}}{173}{appendix.D}
+l.170 ...�s-Graduação do ICMC}}{175}{appendix.D}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1628,7 +1628,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.170 ...�s-Graduação do ICMC}}{173}{appendix.D}
+l.170 ...�s-Graduação do ICMC}}{175}{appendix.D}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1638,7 +1638,7 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 170
- \T1/lmss/bx/n/12 173
+ \T1/lmss/bx/n/12 175
  []
 
 
@@ -1649,7 +1649,7 @@ Overfull \hbox (13.87018pt too wide) in paragraph at lines 170--170
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.174 ...�s-Graduação do IFSC}}{175}{appendix.E}
+l.174 ...�s-Graduação do IFSC}}{177}{appendix.E}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1663,7 +1663,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.174 ...�s-Graduação do IFSC}}{175}{appendix.E}
+l.174 ...�s-Graduação do IFSC}}{177}{appendix.E}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1676,7 +1676,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.174 ...�s-Graduação do IFSC}}{175}{appendix.E}
+l.174 ...�s-Graduação do IFSC}}{177}{appendix.E}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1686,7 +1686,7 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 174
- \T1/lmss/bx/n/12 175
+ \T1/lmss/bx/n/12 177
  []
 
 
@@ -1701,7 +1701,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.178 ...�s-Graduação do IQSC}}{177}{appendix.F}
+l.178 ...�s-Graduação do IQSC}}{179}{appendix.F}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1715,7 +1715,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.178 ...�s-Graduação do IQSC}}{177}{appendix.F}
+l.178 ...�s-Graduação do IQSC}}{179}{appendix.F}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1728,7 +1728,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.178 ...�s-Graduação do IQSC}}{177}{appendix.F}
+l.178 ...�s-Graduação do IQSC}}{179}{appendix.F}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1738,7 +1738,7 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 178
- \T1/lmss/bx/n/12 177
+ \T1/lmss/bx/n/12 179
  []
 
 
@@ -1749,7 +1749,7 @@ Overfull \hbox (13.87018pt too wide) in paragraph at lines 178--178
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.182 ...de Graduação da EESC}}{179}{appendix.G}
+l.182 ...de Graduação da EESC}}{181}{appendix.G}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1763,7 +1763,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.182 ...de Graduação da EESC}}{179}{appendix.G}
+l.182 ...de Graduação da EESC}}{181}{appendix.G}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1776,7 +1776,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.182 ...de Graduação da EESC}}{179}{appendix.G}
+l.182 ...de Graduação da EESC}}{181}{appendix.G}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1786,13 +1786,13 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 182
- \T1/lmss/bx/n/12 179
+ \T1/lmss/bx/n/12 181
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.186 ...ente e horizontalmente}}{181}{appendix.H}
+l.186 ...ente e horizontalmente}}{183}{appendix.H}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1806,7 +1806,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.186 ...ente e horizontalmente}}{181}{appendix.H}
+l.186 ...ente e horizontalmente}}{183}{appendix.H}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1819,7 +1819,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.186 ...ente e horizontalmente}}{181}{appendix.H}
+l.186 ...ente e horizontalmente}}{183}{appendix.H}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1829,13 +1829,13 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 186
- \T1/lmss/bx/n/12 181
+ \T1/lmss/bx/n/12 183
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.190 ...lo de tabela com grade}}{183}{appendix.I}
+l.190 ...lo de tabela com grade}}{185}{appendix.I}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1849,7 +1849,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.190 ...lo de tabela com grade}}{183}{appendix.I}
+l.190 ...lo de tabela com grade}}{185}{appendix.I}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1862,7 +1862,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.190 ...lo de tabela com grade}}{183}{appendix.I}
+l.190 ...lo de tabela com grade}}{185}{appendix.I}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1872,13 +1872,13 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 190
- \T1/lmss/bx/n/12 183
+ \T1/lmss/bx/n/12 185
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.199 ...de anexo}}{187}{appendix.anexochapback.1}
+l.199 ...de anexo}}{189}{appendix.anexochapback.1}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1892,7 +1892,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.199 ...de anexo}}{187}{appendix.anexochapback.1}
+l.199 ...de anexo}}{189}{appendix.anexochapback.1}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1905,7 +1905,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.199 ...de anexo}}{187}{appendix.anexochapback.1}
+l.199 ...de anexo}}{189}{appendix.anexochapback.1}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1915,13 +1915,13 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 199
- \T1/lmss/bx/n/12 187
+ \T1/lmss/bx/n/12 189
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.203 ...\LaTeX )}}{189}{appendix.anexochapback.2}
+l.203 ...\LaTeX )}}{191}{appendix.anexochapback.2}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1935,7 +1935,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.203 ...\LaTeX )}}{189}{appendix.anexochapback.2}
+l.203 ...\LaTeX )}}{191}{appendix.anexochapback.2}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1948,7 +1948,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.203 ...\LaTeX )}}{189}{appendix.anexochapback.2}
+l.203 ...\LaTeX )}}{191}{appendix.anexochapback.2}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -1958,13 +1958,13 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 203
- \T1/lmss/bx/n/12 189
+ \T1/lmss/bx/n/12 191
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.207 ... \LaTeX }}{191}{appendix.anexochapback.3}
+l.207 ... \LaTeX }}{193}{appendix.anexochapback.3}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1978,7 +1978,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.207 ... \LaTeX }}{191}{appendix.anexochapback.3}
+l.207 ... \LaTeX }}{193}{appendix.anexochapback.3}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1991,7 +1991,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.207 ... \LaTeX }}{191}{appendix.anexochapback.3}
+l.207 ... \LaTeX }}{193}{appendix.anexochapback.3}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -2001,13 +2001,13 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 207
- \T1/lmss/bx/n/12 191
+ \T1/lmss/bx/n/12 193
  []
 
 ! Argument of \MakeUppercase (arg 1) has an extra }.
 <inserted text> 
                 \par 
-l.211 ... \LaTeX }}{193}{appendix.anexochapback.4}
+l.211 ... \LaTeX }}{195}{appendix.anexochapback.4}
                                                   %
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -2021,7 +2021,7 @@ Runaway argument?
 ! Paragraph ended before \MakeUppercase (arg 1) was complete.
 <to be read again> 
                    \par 
-l.211 ... \LaTeX }}{193}{appendix.anexochapback.4}
+l.211 ... \LaTeX }}{195}{appendix.anexochapback.4}
                                                   %
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -2034,7 +2034,7 @@ My plan is to forget the whole thing and hope for the best.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.211 ... \LaTeX }}{193}{appendix.anexochapback.4}
+l.211 ... \LaTeX }}{195}{appendix.anexochapback.4}
                                                   %
 
 The module '__kernel' does not have a key called '__kernel/\MT@gobble@to@nil
@@ -2044,12 +2044,12 @@ Check that you have spelled the key name correctly.
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 211
- \T1/lmss/bx/n/12 193
+ \T1/lmss/bx/n/12 195
  []
 
 
 Overfull \hbox (1.5877pt too wide) detected at line 214
- \T1/lmss/bx/n/12 195
+ \T1/lmss/bx/n/12 197
  []
 
 ) [27] [28
@@ -2058,22 +2058,23 @@ Overfull \hbox (1.5877pt too wide) detected at line 214
 \openout2 = `USPSC-Cap1-Introducao.aux'.
 
  (USPSC-Cap1-Introducao.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29
+LaTeX Warning: Citation `goulet2022machine' on page 29 undefined on input line 
+18.
+
+[29
 
 
-])
-[30]
+]) [30] [31]
 \openout2 = `USPSC-Cap2-Desenvolvimento.aux'.
 
- (USPSC-Cap2-Desenvolvimento.tex [31
+ (USPSC-Cap2-Desenvolvimento.tex [32
 
 
 
 
-]
-<USPSC-EstruturaTrabAcad.jpg, id=584, 625.58719pt x 514.92375pt>
+] [33]
+<USPSC-EstruturaTrabAcad.jpg, id=597, 625.58719pt x 514.92375pt>
 File: USPSC-EstruturaTrabAcad.jpg Graphic file (type jpg)
 <use USPSC-EstruturaTrabAcad.jpg>
 Package pdftex.def Info: USPSC-EstruturaTrabAcad.jpg  used on input line 32.
@@ -2084,7 +2085,7 @@ Overfull \hbox (4.05502pt too wide) in paragraph at lines 43--44
 C-TCC-pre-textual-
  []
 
-[32
+[34
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2101,31 +2102,31 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [33]
-[34]
+ [35]
+[36]
 
 LaTeX Warning: Characters dropped after `\end{verbatim}' on input line 129.
 
 
 LaTeX Warning: Characters dropped after `\end{verbatim}' on input line 136.
 
-[35] [36]
+[37] [38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
-[38]
+ [39]
+[40]
 Overfull \hbox (1.95023pt too wide) in paragraph at lines 263--263
 []  \T1/lmtt/m/n/12 %\notafolharosto{Vers\~ao corrigida \\(Vers\~ao original di
 spon\'ivel na[] 
  []
 
-[39]
+[41]
 Overfull \hbox (1.95023pt too wide) in paragraph at lines 336--336
 []\T1/lmtt/m/n/12 twoside,  % para impress�o em anverso (frente) e verso. Opost
 o a oneside -[] 
  []
 
-[40]
+[42]
 Overfull \hbox (1.95023pt too wide) in paragraph at lines 356--356
 []\T1/lmtt/m/n/12 %- p�ginas �mpares: cabe�alho com se��es ou subse��es e o n�m
 ero da p�gina[] 
@@ -2137,7 +2138,7 @@ Overfull \hbox (1.95023pt too wide) in paragraph at lines 378--378
 o a oneside -[] 
  []
 
-[41]
+[43]
 Overfull \hbox (1.95023pt too wide) in paragraph at lines 398--398
 []\T1/lmtt/m/n/12 %- p�ginas �mpares: cabe�alho com se��es ou subse��es e o n�m
 ero da p�gina[] 
@@ -2151,7 +2152,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 421--421
  blog . lemonde . fr / 2013 / 02 / 17 /
  []
 
-[42]
+[44]
 Underfull \hbox (badness 10000) in paragraph at lines 435--435
  [] [] [][]\T1/lmr/m/n/10.95 (+20) Extra�do de: [][]$<[]http : / / internaciona
 l . elpais . com / internacional / 2013 / 02 / 17 / actualidad /
@@ -2159,7 +2160,7 @@ l . elpais . com / internacional / 2013 / 02 / 17 / actualidad /
 
 LaTeX Info: Redefining \. on input line 439.
 LaTeX Info: Redefining \% on input line 439.
-[43] [44] [45
+[45] [46] [47
 pdfTeX warning (ext4): destination with the same identifier (name{table.2.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2175,7 +2176,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 665--676
 
  []
 
-[46
+[48
 pdfTeX warning (ext4): destination with the same identifier (name{table.2.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2188,7 +2189,7 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.676 
       ]
-<USPSC-modelo-img-grafico.pdf, id=747, 847.165pt x 314.17375pt>
+<USPSC-modelo-img-grafico.pdf, id=761, 847.165pt x 314.17375pt>
 File: USPSC-modelo-img-grafico.pdf Graphic file (type pdf)
 <use USPSC-modelo-img-grafico.pdf>
 Package pdftex.def Info: USPSC-modelo-img-grafico.pdf  used on input line 679.
@@ -2208,7 +2209,7 @@ Underfull \hbox (badness 2753) in paragraph at lines 699--699
 []|\T1/lmr/m/n/12 (+20) N�vel do ob-
  []
 
-[47
+[49
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2223,7 +2224,7 @@ has been already used, duplicate ignored
 l.723 	Q
         ualquer que seja o tipo de ilustração, sua identificação aparece...
  <./USPSC-modelo-img-grafico.pdf>]
-<USPSC-modelo-img-marca.pdf, id=788, 227.51701pt x 72.2695pt>
+<USPSC-modelo-img-marca.pdf, id=801, 227.51701pt x 72.2695pt>
 File: USPSC-modelo-img-marca.pdf Graphic file (type pdf)
 <use USPSC-modelo-img-marca.pdf>
 Package pdftex.def Info: USPSC-modelo-img-marca.pdf  used on input line 745.
@@ -2237,7 +2238,7 @@ File: USPSC-modelo-img-grafico.pdf Graphic file (type pdf)
 <use USPSC-modelo-img-grafico.pdf>
 Package pdftex.def Info: USPSC-modelo-img-grafico.pdf  used on input line 752.
 (pdftex.def)             Requested size: 169.43pt x 62.83363pt.
-[48
+[50
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2256,7 +2257,7 @@ Overfull \hbox (1.95023pt too wide) in paragraph at lines 821--821
 io do comando[] 
  []
 
-[49] [50]
+[51] [52]
 Overfull \hbox (1.95023pt too wide) in paragraph at lines 896--896
 []   \T1/lmtt/m/n/12 makeindex ARQUIVO_PRINCIPAL.nlo -s nomencl.ist -o ARQUIVO_
 PRINCIPAL.nls[] 
@@ -2268,16 +2269,16 @@ Overfull \hbox (1.95023pt too wide) in paragraph at lines 918--918
 ndo indicamos[] 
  []
 
-[51] [52]
+[53] [54]
 Overfull \hbox (6.91217pt too wide) in paragraph at lines 1009--1012
 []\T1/lmr/m/n/12 (-20) Inscreva-se no grupo de usu�-rios L[]T[]X: [][]$<[]http 
 : / / groups . google . com / group / latex-[]br>[]$[][],
  []
 
-[53] [54]) [55]
+[55] [56]) [57]
 \openout2 = `USPSC-Cap3-Citacoes.aux'.
 
- (USPSC-Cap3-Citacoes.tex [56
+ (USPSC-Cap3-Citacoes.tex [58
 
 
 
@@ -2290,7 +2291,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
 Underfull \vbox (badness 1342) has occurred while \output is active []
 
- [57]
+ [59]
 Overfull \hbox (7.16368pt too wide) in paragraph at lines 52--52
  []\T1/lmtt/m/n/12 "Texto texto texto texto texto texto texto texto texto texto
  texto[] 
@@ -2314,7 +2315,7 @@ Overfull \hbox (19.51369pt too wide) in paragraph at lines 68--68
 o texto}[] 
  []
 
-[58]
+[60]
 Underfull \hbox (badness 10000) in paragraph at lines 97--98
  
  []
@@ -2372,7 +2373,7 @@ Overfull \hbox (0.98868pt too wide) in paragraph at lines 127--127
 texto[] 
  []
 
-[59]
+[61]
 Overfull \hbox (7.16368pt too wide) in paragraph at lines 128--128
  []\T1/lmtt/m/n/12 texto texto texto texto texto texto texto texto texto texto 
 texto.[] 
@@ -2405,7 +2406,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--178
 
  []
 
-[60]
+[62]
 Overfull \hbox (13.32468pt too wide) in paragraph at lines 202--202
  []\T1/lmtt/m/n/12 \apudonline {Gomes1992}{Azevedo2015} texto texto texto texto
  texto.[] 
@@ -2422,7 +2423,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
-[61]
+[63]
 Overfull \hbox (7.16368pt too wide) in paragraph at lines 228--228
  []\T1/lmtt/m/n/12 texto texto texto texto texto texto texto texto texto texto 
 texto"[] 
@@ -2433,7 +2434,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 258--261
 
  []
 
-[62]
+[64]
 Underfull \hbox (badness 10000) in paragraph at lines 267--269
 
  []
@@ -2449,7 +2450,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 291--293
 
  []
 
-[63]
+[65]
 Overfull \hbox (7.16368pt too wide) in paragraph at lines 304--304
  []\T1/lmtt/m/n/12 texto. (em fase de elabora��o)\footnote{\citetext{Barbosa200
 2}}.\\[] 
@@ -2474,7 +2475,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 343--346
 
  []
 
-[64]
+[66]
 Overfull \hbox (38.0387pt too wide) in paragraph at lines 348--348
  []\T1/lmtt/m/n/12 Texto texto \underline{texto} texto texto. \cite[~p.57, grif
 o do autor][] 
@@ -2517,7 +2518,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 379--382
 
  []
 
-[65]
+[67]
 Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
  []
@@ -2547,7 +2548,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 419--420
 
  []
 
-[66]
+[68]
 Underfull \hbox (badness 10000) in paragraph at lines 424--425
 
  []
@@ -2590,7 +2591,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 464--465
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67]
+ [69]
 Underfull \hbox (badness 10000) in paragraph at lines 474--475
 
  []
@@ -2620,7 +2621,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 494--499
 
  []
 
-[68]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 527--532
 
  []
@@ -2630,7 +2631,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 553--554
 
  []
 
-[69]
+[71]
 Underfull \hbox (badness 10000) in paragraph at lines 559--560
 
  []
@@ -2645,22 +2646,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 569--570
 
  []
 
-[70]
+[72]
 Underfull \hbox (badness 10000) in paragraph at lines 640--641
 
  []
 
-[71]
+[73]
 Underfull \hbox (badness 10000) in paragraph at lines 689--690
 
  []
 
-[72]
+[74]
 Underfull \hbox (badness 10000) in paragraph at lines 743--744
 
  []
 
-[73] [74]
+[75] [76]
 Underfull \hbox (badness 10000) in paragraph at lines 836--837
 
  []
@@ -2670,15 +2671,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 851--852
 
  []
 
-[75] [76]
+[77] [78]
 Underfull \hbox (badness 10000) in paragraph at lines 950--951
 
  []
 
-[77] [78]) [79]
+[79] [80]) [81]
 \openout2 = `USPSC-Cap4-Referencias.aux'.
 
- (USPSC-Cap4-Referencias.tex [80
+ (USPSC-Cap4-Referencias.tex [82
 
 
 
@@ -2688,7 +2689,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-[81
+[83
 pdfTeX warning (ext4): destination with the same identifier (name{quadro.4.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2715,7 +2716,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--83
 
  []
 
-[82]
+[84]
 Underfull \hbox (badness 10000) in paragraph at lines 103--106
 
  []
@@ -2730,7 +2731,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--148
 
  []
 
-[83]
+[85]
 Underfull \hbox (badness 10000) in paragraph at lines 164--167
 
  []
@@ -2740,7 +2741,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--191
 
  []
 
-[84] [85
+[86] [87
 pdfTeX warning (ext4): destination with the same identifier (name{quadro.4.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2766,7 +2767,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 278--281
 
  []
 
-[86]
+[88]
 Underfull \hbox (badness 10000) in paragraph at lines 296--299
 
  []
@@ -2781,7 +2782,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 337--342
 
  []
 
-[87]
+[89]
 Overfull \hbox (2.89197pt too wide) in paragraph at lines 361--364
 [][] 
  []
@@ -2799,12 +2800,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 386--390
 
 Underfull \vbox (badness 6016) has occurred while \output is active []
 
- [88]
+ [90]
 Underfull \hbox (badness 10000) in paragraph at lines 411--415
 
  []
 
-[89]
+[91]
 Overfull \hbox (2.00987pt too wide) in paragraph at lines 435--438
 [][] 
  []
@@ -2824,7 +2825,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 480--483
 
  []
 
-[90]
+[92]
 Underfull \hbox (badness 10000) in paragraph at lines 501--502
 
  []
@@ -2837,7 +2838,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 503--506
 
 Underfull \vbox (badness 1436) has occurred while \output is active []
 
- [91]
+ [93]
 Underfull \hbox (badness 10000) in paragraph at lines 529--530
 
  []
@@ -2857,7 +2858,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 557--560
 
  []
 
-[92]
+[94]
 Underfull \hbox (badness 10000) in paragraph at lines 580--581
 
  []
@@ -2872,7 +2873,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 586--589
 
  []
 
-[93]
+[95]
 Underfull \hbox (badness 10000) in paragraph at lines 607--608
 
  []
@@ -2897,7 +2898,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 636--639
 
  []
 
-[94]
+[96]
 Underfull \hbox (badness 10000) in paragraph at lines 655--658
 
  []
@@ -2920,7 +2921,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 692--692
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [95]
+ [97]
 Underfull \hbox (badness 10000) in paragraph at lines 704--705
 
  []
@@ -2930,7 +2931,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 706--711
 
  []
 
-[96
+[98
 pdfTeX warning (ext4): destination with the same identifier (name{quadro.4.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2946,7 +2947,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 766--769
 
  []
 
-[97]
+[99]
 Underfull \hbox (badness 10000) in paragraph at lines 789--792
 
  []
@@ -2956,7 +2957,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 811--817
 
  []
 
-[98]
+[100]
 Underfull \hbox (badness 10000) in paragraph at lines 839--842
 
  []
@@ -2966,7 +2967,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 861--864
 
  []
 
-[99]
+[101]
 Underfull \hbox (badness 10000) in paragraph at lines 883--886
 
  []
@@ -2976,7 +2977,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 904--907
 
  []
 
-[100]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 925--926
 
  []
@@ -3016,7 +3017,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 968--971
 
  []
 
-[101]
+[103]
 Overfull \hbox (7.12527pt too wide) in paragraph at lines 991--994
 [][] 
  []
@@ -3038,7 +3039,7 @@ Overfull \hbox (1.95023pt too wide) in paragraph at lines 1006--1006
 Veterin�rias,[] 
  []
 
-[102]
+[104]
 Overfull \hbox (6.85457pt too wide) in paragraph at lines 1017--1020
 [][] 
  []
@@ -3063,7 +3064,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1046--1049
 
  []
 
-[103]
+[105]
 Underfull \hbox (badness 10000) in paragraph at lines 1070--1071
 
  []
@@ -3081,7 +3082,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1097--1102
 
 Underfull \vbox (badness 5787) has occurred while \output is active []
 
- [104]
+ [106]
 Underfull \hbox (badness 10000) in paragraph at lines 1122--1126
 
  []
@@ -3096,7 +3097,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1129--1132
 
  []
 
-[105]
+[107]
 Underfull \hbox (badness 10000) in paragraph at lines 1151--1155
 
  []
@@ -3117,7 +3118,7 @@ Overfull \hbox (8.12523pt too wide) in paragraph at lines 1184--1184
 ioecon�mico do[] 
  []
 
-[106]
+[108]
 Overfull \hbox (6.85457pt too wide) in paragraph at lines 1199--1203
 [][] 
  []
@@ -3137,7 +3138,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1206--1210
 
  []
 
-[107]
+[109]
 Underfull \hbox (badness 10000) in paragraph at lines 1233--1236
 
  []
@@ -3157,7 +3158,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1269--1272
 
  []
 
-[108]
+[110]
 Underfull \hbox (badness 10000) in paragraph at lines 1292--1295
 
  []
@@ -3167,12 +3168,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1317--1320
 
  []
 
-[109]
+[111]
 Underfull \hbox (badness 10000) in paragraph at lines 1343--1347
 
  []
 
-[110]
+[112]
 Underfull \hbox (badness 10000) in paragraph at lines 1371--1375
 
  []
@@ -3200,12 +3201,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1405--1410
 
  []
 
-[111]
+[113]
 Underfull \hbox (badness 10000) in paragraph at lines 1431--1438
 
  []
 
-[112]
+[114]
 Underfull \hbox (badness 10000) in paragraph at lines 1465--1467
 
  []
@@ -3225,7 +3226,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1495--1499
 
  []
 
-[113]
+[115]
 Underfull \hbox (badness 10000) in paragraph at lines 1517--1524
 
  []
@@ -3252,7 +3253,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1549--1552
 
  []
 
-[114]
+[116]
 Underfull \hbox (badness 10000) in paragraph at lines 1576--1579
 
  []
@@ -3262,7 +3263,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1598--1602
 
  []
 
-[115]
+[117]
 Underfull \hbox (badness 10000) in paragraph at lines 1624--1628
 
  []
@@ -3272,7 +3273,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1646--1649
 
  []
 
-[116]
+[118]
 Underfull \hbox (badness 10000) in paragraph at lines 1668--1672
 
  []
@@ -3282,7 +3283,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1693--1697
 
  []
 
-[117]
+[119]
 Underfull \hbox (badness 10000) in paragraph at lines 1716--1723
 
  []
@@ -3292,7 +3293,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1746--1750
 
  []
 
-[118]
+[120]
 Underfull \hbox (badness 10000) in paragraph at lines 1771--1776
 
  []
@@ -3303,7 +3304,7 @@ Overfull \hbox (1.95023pt too wide) in paragraph at lines 1786--1786
 rmac�uticas},[] 
  []
 
-[119]
+[121]
 Underfull \hbox (badness 10000) in paragraph at lines 1805--1810
 
  []
@@ -3319,7 +3320,7 @@ Overfull \hbox (1.95023pt too wide) in paragraph at lines 1840--1840
 and Oliveira,[] 
  []
 
-[120]
+[122]
 Underfull \hbox (badness 10000) in paragraph at lines 1854--1857
 
  []
@@ -3334,7 +3335,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1860--1869
 
  []
 
-[121]
+[123]
 Underfull \hbox (badness 10000) in paragraph at lines 1894--1899
 
  []
@@ -3344,7 +3345,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1921--1924
 
  []
 
-[122]
+[124]
 Underfull \hbox (badness 10000) in paragraph at lines 1941--1942
 
  []
@@ -3364,7 +3365,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1971--1977
 
  []
 
-[123]
+[125]
 Underfull \hbox (badness 10000) in paragraph at lines 2001--2002
 
  []
@@ -3374,7 +3375,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2003--2009
 
  []
 
-[124]
+[126]
 Underfull \hbox (badness 10000) in paragraph at lines 2037--2041
 
  []
@@ -3397,7 +3398,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2067--2072
 
 Underfull \vbox (badness 6725) has occurred while \output is active []
 
- [125]
+ [127]
 Underfull \hbox (badness 10000) in paragraph at lines 2088--2093
 
  []
@@ -3417,7 +3418,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2116--2117
 
  []
 
-[126]
+[128]
 Underfull \hbox (badness 10000) in paragraph at lines 2118--2123
 
  []
@@ -3433,7 +3434,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2143--2148
 
  []
 
-[127]
+[129]
 Underfull \hbox (badness 10000) in paragraph at lines 2170--2171
 
  []
@@ -3448,7 +3449,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2197--2201
 
  []
 
-[128]
+[130]
 Underfull \hbox (badness 10000) in paragraph at lines 2220--2228
 
  []
@@ -3468,7 +3469,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2240--2244
 
  []
 
-[129]
+[131]
 Underfull \hbox (badness 10000) in paragraph at lines 2264--2268
 
  []
@@ -3494,7 +3495,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package microtype Info: Character `texttrademark ' is missing
 (microtype)             in font `TS1/lmtt/m/n/12'.
 (microtype)             Ignoring protrusion settings for this character.
- [130{C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.en
+ [132{C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.en
 c}]
 Underfull \hbox (badness 10000) in paragraph at lines 2310--2317
 
@@ -3513,12 +3514,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2344--2355
 
 Underfull \vbox (badness 4156) has occurred while \output is active []
 
- [131]
+ [133]
 Underfull \hbox (badness 10000) in paragraph at lines 2388--2389
 
  []
 
-[132]
+[134]
 Underfull \hbox (badness 10000) in paragraph at lines 2390--2395
 
  []
@@ -3539,7 +3540,7 @@ Overfull \hbox (1.92221pt too wide) in paragraph at lines 2431--2431
 m/n/12 9.887, de 7 de dezembro de 1999. Altera[] 
  []
 
-[133]
+[135]
 Underfull \hbox (badness 10000) in paragraph at lines 2449--2452
 
  []
@@ -3564,12 +3565,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2490--2500
 
  []
 
-[134]
+[136]
 Underfull \hbox (badness 10000) in paragraph at lines 2524--2529
 
  []
 
-[135]
+[137]
 Underfull \hbox (badness 10000) in paragraph at lines 2558--2563
 
  []
@@ -3592,7 +3593,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2587--2594
 
 Underfull \vbox (badness 2050) has occurred while \output is active []
 
- [136]
+ [138]
 Underfull \hbox (badness 10000) in paragraph at lines 2614--2620
 
  []
@@ -3607,7 +3608,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2623--2629
 
  []
 
-[137]
+[139]
 Underfull \hbox (badness 10000) in paragraph at lines 2648--2649
 
  []
@@ -3637,7 +3638,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2681--2686
 
  []
 
-[138]
+[140]
 Underfull \hbox (badness 10000) in paragraph at lines 2705--2709
 
  []
@@ -3657,7 +3658,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2742--2746
 
  []
 
-[139]
+[141]
 Underfull \hbox (badness 10000) in paragraph at lines 2765--2772
 
  []
@@ -3680,7 +3681,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2801--2805
 
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
- [140]
+ [142]
 Underfull \hbox (badness 10000) in paragraph at lines 2806--2807
 
  []
@@ -3700,7 +3701,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2831--2835
 
  []
 
-[141]
+[143]
 Underfull \hbox (badness 10000) in paragraph at lines 2860--2866
 
  []
@@ -3720,7 +3721,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2876--2880
 
  []
 
-[142]
+[144]
 Underfull \hbox (badness 10000) in paragraph at lines 2901--2905
 
  []
@@ -3730,7 +3731,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2921--2925
 
  []
 
-[143]
+[145]
 Underfull \hbox (badness 10000) in paragraph at lines 2947--2948
 
  []
@@ -3748,7 +3749,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2976--2978
 
 Underfull \vbox (badness 1430) has occurred while \output is active []
 
- [144]
+ [146]
 Underfull \hbox (badness 10000) in paragraph at lines 2979--2980
 
  []
@@ -3763,7 +3764,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3012--3018
 
  []
 
-[145]
+[147]
 Underfull \hbox (badness 10000) in paragraph at lines 3040--3041
 
  []
@@ -3773,7 +3774,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3042--3046
 
  []
 
-[146]
+[148]
 Underfull \hbox (badness 10000) in paragraph at lines 3082--3084
 
  []
@@ -3788,7 +3789,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3114--3115
 
  []
 
-[147]
+[149]
 Underfull \hbox (badness 10000) in paragraph at lines 3116--3120
 
  []
@@ -3803,16 +3804,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 3140--3144
 
  []
 
-[148]) [149]
+[150]) [151]
 \openout2 = `USPSC-Cap5-Conclusao.aux'.
 
- (USPSC-Cap5-Conclusao.tex [150
+ (USPSC-Cap5-Conclusao.tex [152
 
 
 
 
-]) [151] (USPSC-TCC-modelo-ICMC.bbl
-[152
+]) [153] (USPSC-TCC-modelo-ICMC.bbl
+[154
 
 
 
@@ -3822,11 +3823,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-[153] [154] [155] [156] [157] [158] [159] [160]) [161]
+[155] [156] [157] [158] [159] [160] [161] [162]) [163]
 \openout2 = `USPSC-Apendices.aux'.
 
  (USPSC-Apendices.tex
-[162
+[164
 
 
 ]
@@ -3834,11 +3835,11 @@ bibitemlist
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 9.
 
-[163
+[165
 
-] [164] [165
+] [166] [167
 
-] [166
+] [168
 
 ]
 Underfull \hbox (badness 4660) in paragraph at lines 29--29
@@ -3850,21 +3851,21 @@ Underfull \hbox (badness 4660) in paragraph at lines 30--30
 []|\T1/lmr/m/n/10.95 (+20) Ci�ncias da En-ge-nha-ria
  []
 
-[167
+[169
 pdfTeX warning (ext4): destination with the same identifier (name{quadro.B.5}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.51 \clearpage
-               ] [168]
+               ] [170]
 Underfull \hbox (badness 1178) in paragraph at lines 101--101
 []|\T1/lmr/m/n/10.95 (+20) Programa de P�s-Gradua��o em
  []
 
-[169
+[171
 
 
-] [170
+] [172
 
 ]
 Overfull \hbox (5.35706pt too wide) in paragraph at lines 119--119
@@ -3906,13 +3907,13 @@ Overfull \hbox (12.8517pt too wide) in paragraph at lines 117--128
 [][] 
  []
 
-[171
+[173
 pdfTeX warning (ext4): destination with the same identifier (name{quadro.C.6}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.134 \chapter
-              {Siglas dos Programas de Pós-Graduação do ICMC}] [172
+              {Siglas dos Programas de Pós-Graduação do ICMC}] [174
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 147--147
@@ -3969,7 +3970,7 @@ Overfull \hbox (12.8517pt too wide) in paragraph at lines 140--158
 [][] 
  []
 
-[173
+[175
 pdfTeX warning (ext4): destination with the same identifier (name{quadro.D.7}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -3990,7 +3991,7 @@ Overfull \hbox (12.8517pt too wide) in paragraph at lines 164--177
 [][] 
  []
 
-[174
+[176
 
 ]
 Overfull \hbox (5.35706pt too wide) in paragraph at lines 191--191
@@ -4052,7 +4053,7 @@ Overfull \hbox (12.8517pt too wide) in paragraph at lines 189--205
 [][] 
  []
 
-[175
+[177
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{quadro.E.8}) 
@@ -4060,7 +4061,7 @@ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.211 \chapter
-              {Siglas dos Programas de Pós-Graduação do IQSC}] [176
+              {Siglas dos Programas de Pós-Graduação do IQSC}] [178
 
 ]
 Overfull \hbox (5.35706pt too wide) in paragraph at lines 219--219
@@ -4102,37 +4103,37 @@ Overfull \hbox (12.8517pt too wide) in paragraph at lines 217--230
 [][] 
  []
 
-[177
+[179
 pdfTeX warning (ext4): destination with the same identifier (name{quadro.F.9}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.237 \chapter
-              {Siglas dos Cursos de Graduação da EESC}] [178
+              {Siglas dos Cursos de Graduação da EESC}] [180
 
 ]
 Overfull \hbox (2.27809pt too wide) in paragraph at lines 243--259
 [][] 
  []
 
-[179
+[181
 pdfTeX warning (ext4): destination with the same identifier (name{quadro.G.10})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.265 \chapter
               {Exemplo de tabela centralizada verticalmente e horizontalmente}]
-[180
+[182
 
-] [181
+] [183
 pdfTeX warning (ext4): destination with the same identifier (name{table.H.3}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.287 \chapter
-              {Exemplo de tabela com grade}] [182
+              {Exemplo de tabela com grade}] [184
 
-]) [183
+]) [185
 pdfTeX warning (ext4): destination with the same identifier (name{table.I.4}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -4141,7 +4142,7 @@ l.503 \include{USPSC-Apendices}
                                ]
 \openout2 = `USPSC-Anexos.aux'.
 
- (USPSC-Anexos.tex [184
+ (USPSC-Anexos.tex [186
 
 
 
@@ -4151,49 +4152,49 @@ l.503 \include{USPSC-Apendices}
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 9.
 
-[185
+[187
 
-] [186] [187
+] [188] [189
 
-] [188
+] [190
 
 ]
-<USPSC-AcentuacaoLaTeX.png, id=1984, 225.84375pt x 353.06906pt>
+<USPSC-AcentuacaoLaTeX.png, id=1997, 225.84375pt x 353.06906pt>
 File: USPSC-AcentuacaoLaTeX.png Graphic file (type png)
 <use USPSC-AcentuacaoLaTeX.png>
 Package pdftex.def Info: USPSC-AcentuacaoLaTeX.png  used on input line 21.
 (pdftex.def)             Requested size: 225.84319pt x 353.06819pt.
- [189
+ [191
 pdfTeX warning (ext4): destination with the same identifier (name{figure.anexoc
 hapback.2.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.26 \chapter
              {Símbolos úteis em \LaTeX} <./USPSC-AcentuacaoLaTeX.png>]
-[190
+[192
 
 ]
-<USPSC-SimbolosUteis.png, id=1997, 212.29312pt x 266.49562pt>
+<USPSC-SimbolosUteis.png, id=2011, 212.29312pt x 266.49562pt>
 File: USPSC-SimbolosUteis.png Graphic file (type png)
 <use USPSC-SimbolosUteis.png>
 Package pdftex.def Info: USPSC-SimbolosUteis.png  used on input line 30.
 (pdftex.def)             Requested size: 212.2926pt x 266.49496pt.
- [191
+ [193
 pdfTeX warning (ext4): destination with the same identifier (name{figure.anexoc
 hapback.3.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.36 \chapter
-             {Letras gregas em \LaTeX} <./USPSC-SimbolosUteis.png>] [192
+             {Letras gregas em \LaTeX} <./USPSC-SimbolosUteis.png>] [194
 
 ]
-<USPSC-LetrasGregas.png, id=2009, 326.72063pt x 449.42906pt>
+<USPSC-LetrasGregas.png, id=2022, 326.72063pt x 449.42906pt>
 File: USPSC-LetrasGregas.png Graphic file (type png)
 <use USPSC-LetrasGregas.png>
 Package pdftex.def Info: USPSC-LetrasGregas.png  used on input line 40.
 (pdftex.def)             Requested size: 326.71982pt x 449.42795pt.
 )
-[193
+[195
 pdfTeX warning (ext4): destination with the same identifier (name{figure.anexoc
 hapback.4.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -4203,12 +4204,12 @@ l.508 \include{USPSC-Anexos}
 \openout2 = `USPSC-IndicesRemissivos.aux'.
 
 
-(USPSC-IndicesRemissivos.tex) (USPSC-TCC-modelo-ICMC.ind [194
+(USPSC-IndicesRemissivos.tex) (USPSC-TCC-modelo-ICMC.ind [196
 
 
 
 
-] [195
+] [197
 
 
 ])
@@ -4238,14 +4239,14 @@ L3 programming layer <2023-06-16>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 22089 strings out of 476037
- 367471 string characters out of 5779845
- 1887763 words of memory out of 5000000
- 41441 multiletter control sequences out of 15000+600000
+ 22098 strings out of 476037
+ 367633 string characters out of 5779845
+ 1888763 words of memory out of 5000000
+ 41447 multiletter control sequences out of 15000+600000
  605476 words of font info for 238 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,17n,93p,2684b,825s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4324,9 +4325,9 @@ sbx10.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 msy10.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 msy8.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
 tt12.pfb>
-Output written on USPSC-TCC-modelo-ICMC.pdf (197 pages, 1464397 bytes).
+Output written on USPSC-TCC-modelo-ICMC.pdf (199 pages, 1468404 bytes).
 PDF statistics:
- 2744 PDF objects out of 2984 (max. 8388607)
- 632 named destinations out of 1000 (max. 500000)
+ 2758 PDF objects out of 2984 (max. 8388607)
+ 635 named destinations out of 1000 (max. 500000)
  53531 words of extra memory for PDF output out of 61914 (max. 10000000)
 
