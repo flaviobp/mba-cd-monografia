@@ -38,7 +38,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
-Reallocating 'field_info' (item size: 4) to 14591 items.
+Reallocating 'field_info' (item size: 4) to 14867 items.
 Database file #1: abntex2-options.bib
 Database file #2: USPSC-modelo-references.bib
 Warning--entry type for "Castro1990" isn't style-file defined
@@ -61,45 +61,45 @@ Warning--campo year vazio ou faltando em Vicente2010
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 138 entries,
+You've used 142 entries,
             6714 wiz_defined-function locations,
-            2135 strings with 31804 characters,
-and the built_in function-call counts, 132603 in all, are:
-= -- 14271
-> -- 2116
-< -- 2185
-+ -- 3049
-- -- 647
-* -- 8203
-:= -- 15850
-add.period$ -- 566
-call.type$ -- 140
-change.case$ -- 1115
-chr.to.int$ -- 246
-cite$ -- 133
-duplicate$ -- 11464
-empty$ -- 8522
-format.name$ -- 3080
-if$ -- 30008
+            2158 strings with 32559 characters,
+and the built_in function-call counts, 136573 in all, are:
+= -- 14573
+> -- 2277
+< -- 2198
++ -- 3109
+- -- 694
+* -- 8518
+:= -- 16355
+add.period$ -- 580
+call.type$ -- 144
+change.case$ -- 1166
+chr.to.int$ -- 259
+cite$ -- 137
+duplicate$ -- 11667
+empty$ -- 8794
+format.name$ -- 3304
+if$ -- 30952
 int.to.chr$ -- 13
 int.to.str$ -- 1
-missing$ -- 2426
-newline$ -- 600
-num.names$ -- 402
-pop$ -- 2927
+missing$ -- 2498
+newline$ -- 619
+num.names$ -- 422
+pop$ -- 3014
 preamble$ -- 1
-purify$ -- 471
+purify$ -- 489
 quote$ -- 0
-skip$ -- 11813
+skip$ -- 12007
 stack$ -- 1
-substring$ -- 5093
-swap$ -- 4295
-text.length$ -- 109
+substring$ -- 5293
+swap$ -- 4406
+text.length$ -- 119
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 149
+type$ -- 150
 warning$ -- 6
-while$ -- 618
+while$ -- 654
 width$ -- 0
-write$ -- 2083
+write$ -- 2153
 (There were 9 warnings)

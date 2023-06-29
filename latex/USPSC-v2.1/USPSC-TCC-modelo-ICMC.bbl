@@ -141,6 +141,12 @@ Dispon{\'\i}vel em: \url{http://link.springer.com/chapter/10.1007/11916246\_2}.
   documentação:numeração progressiva das seções de um documento:
   apresentação. Rio de Janeiro, 2012. 15~p.}
 
+\bibitem[Athey 2018]{athey2018impact}
+\abntrefinfo{Athey}{ATHEY}{2018}
+{ATHEY, S. The impact of machine learning on economics. In:  \textbf{The
+  economics of artificial intelligence: An agenda}. [S.l.]: University of
+  Chicago Press, 2018. p. 507--547.}
+
 \bibitem[Atlas ambiental da Bacia do Rio Corumbataí 2001]{atlas2001}
 \abntrefinfo{Atlas}{ATLAS}{2001}
 {ATLAS ambiental da Bacia do Rio Corumbataí. Rio Claro: CEAPLA, IGCE, UNESP,
@@ -351,6 +357,13 @@ Editorial.}
   \textbf{Face a face}. [S.l.]: Emi-Odeon Brasil, 1977.
 1 CD. Faixa 7.}
 
+\bibitem[Coulombe et al. 2022]{goulet2022machine}
+\abntrefinfo{Coulombe et al.}{COULOMBE et al.}{2022}
+{COULOMBE, P. G. et al. How is machine learning useful for macroeconomic
+  forecasting?
+\textbf{Journal of Applied Econometrics}, Wiley Online Library, v.~37, n.~5, p.
+  920--964, 2022.}
+
 \bibitem[Del Vecchio 1995]{delvecchio1995}
 \abntrefinfo{Del Vecchio}{DEL VECCHIO}{1995}
 {DEL VECCHIO, M. (Comp.). \textbf{A Vista de antejo longa mira}: los antejos
@@ -382,6 +395,14 @@ Editorial.}
 \textbf{Silicon photonic crystals and spontaneous emission.}
 2002. Ph. D. Thesis (Physics) --- FOM Institute for Atomic- and Molecular
   Physics, University of Utrecht, Utrecht, 2002.}
+
+\bibitem[D{\"o}pke, Fritsche e Pierdzioch 2017]{dopke2017predicting}
+\abntrefinfo{D{\"o}pke, Fritsche e Pierdzioch}{D{\"O}PKE; FRITSCHE;
+  PIERDZIOCH}{2017}
+{D{\"O}PKE, J.; FRITSCHE, U.; PIERDZIOCH, C. Predicting recessions with boosted
+  regression trees.
+\textbf{International Journal of Forecasting}, Elsevier, v.~33, n.~4, p.
+  745--759, 2017.}
 
 \bibitem[Dorland's illustrated medical dictionary 2000]{Dorlands2000}
 \abntrefinfo{DORLAND'S}{DORLAND'S}{2000}
@@ -675,6 +696,13 @@ In:  \underline{\ \ \ \ \ \ \ \ }. \textbf{Tecnologia e novas formas de gestão
 \abntrefinfo{Resprin}{RESPRIN}{1997}
 {RESPRIN: comprimidos. Responsável técnico Delosmar R. Bastos. São José dos
   Campos: Johnson \& Johnson, 1997. Bula de remédio.}
+
+\bibitem[Richardson, Mulder e Vehbi 2021]{richardson2021nowcasting}
+\abntrefinfo{Richardson, Mulder e Vehbi}{RICHARDSON; MULDER; VEHBI}{2021}
+{RICHARDSON, A.; MULDER, T. van F.; VEHBI, T. Nowcasting gdp using
+  machine-learning algorithms: A real-time assessment.
+\textbf{International Journal of Forecasting}, Elsevier, v.~37, n.~2, p.
+  941--948, 2021.}
 
 \bibitem[Romano 1996]{ROMANO1996}
 \abntrefinfo{Romano}{ROMANO}{1996}

@@ -12,7 +12,7 @@
 \contentsline {chapter}{\chapternumberline {1}\MakeUppercase []{Introdução}}{29}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Revisão bibliográfica}{29}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Objetivos do trabalho}{30}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Estrutura do trabalho}{30}{section.1.3}%
+\contentsline {section}{\numberline {1.3}Estrutura do trabalho}{31}{section.1.3}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {2}\MakeUppercase []{Desenvolvimento}}{33}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Pacote USPSC: Classe USPSC e modelos de trabalhos de acadêmicos}{33}{section.2.1}%

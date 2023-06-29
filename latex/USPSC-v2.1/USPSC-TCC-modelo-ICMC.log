@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.24)  27 JUN 2023 21:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.24)  28 JUN 2023 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2057,24 +2057,20 @@ Overfull \hbox (1.5877pt too wide) detected at line 214
 ]
 \openout2 = `USPSC-Cap1-Introducao.aux'.
 
- (USPSC-Cap1-Introducao.tex
-
-LaTeX Warning: Citation `goulet2022machine' on page 29 undefined on input line 
-18.
-
-[29
+ (USPSC-Cap1-Introducao.tex [29
 
 
-]) [30] [31]
+] [30]) [31]
 \openout2 = `USPSC-Cap2-Desenvolvimento.aux'.
 
- (USPSC-Cap2-Desenvolvimento.tex [32
+
+(USPSC-Cap2-Desenvolvimento.tex [32
 
 
 
 
 ] [33]
-<USPSC-EstruturaTrabAcad.jpg, id=597, 625.58719pt x 514.92375pt>
+<USPSC-EstruturaTrabAcad.jpg, id=610, 625.58719pt x 514.92375pt>
 File: USPSC-EstruturaTrabAcad.jpg Graphic file (type jpg)
 <use USPSC-EstruturaTrabAcad.jpg>
 Package pdftex.def Info: USPSC-EstruturaTrabAcad.jpg  used on input line 32.
@@ -2189,7 +2185,7 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.676 
       ]
-<USPSC-modelo-img-grafico.pdf, id=761, 847.165pt x 314.17375pt>
+<USPSC-modelo-img-grafico.pdf, id=774, 847.165pt x 314.17375pt>
 File: USPSC-modelo-img-grafico.pdf Graphic file (type pdf)
 <use USPSC-modelo-img-grafico.pdf>
 Package pdftex.def Info: USPSC-modelo-img-grafico.pdf  used on input line 679.
@@ -2224,7 +2220,7 @@ has been already used, duplicate ignored
 l.723 	Q
         ualquer que seja o tipo de ilustração, sua identificação aparece...
  <./USPSC-modelo-img-grafico.pdf>]
-<USPSC-modelo-img-marca.pdf, id=801, 227.51701pt x 72.2695pt>
+<USPSC-modelo-img-marca.pdf, id=814, 227.51701pt x 72.2695pt>
 File: USPSC-modelo-img-marca.pdf Graphic file (type pdf)
 <use USPSC-modelo-img-marca.pdf>
 Package pdftex.def Info: USPSC-modelo-img-marca.pdf  used on input line 745.
@@ -4159,7 +4155,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 ] [190
 
 ]
-<USPSC-AcentuacaoLaTeX.png, id=1997, 225.84375pt x 353.06906pt>
+<USPSC-AcentuacaoLaTeX.png, id=2010, 225.84375pt x 353.06906pt>
 File: USPSC-AcentuacaoLaTeX.png Graphic file (type png)
 <use USPSC-AcentuacaoLaTeX.png>
 Package pdftex.def Info: USPSC-AcentuacaoLaTeX.png  used on input line 21.
@@ -4174,7 +4170,7 @@ l.26 \chapter
 [192
 
 ]
-<USPSC-SimbolosUteis.png, id=2011, 212.29312pt x 266.49562pt>
+<USPSC-SimbolosUteis.png, id=2024, 212.29312pt x 266.49562pt>
 File: USPSC-SimbolosUteis.png Graphic file (type png)
 <use USPSC-SimbolosUteis.png>
 Package pdftex.def Info: USPSC-SimbolosUteis.png  used on input line 30.
@@ -4188,7 +4184,7 @@ l.36 \chapter
              {Letras gregas em \LaTeX} <./USPSC-SimbolosUteis.png>] [194
 
 ]
-<USPSC-LetrasGregas.png, id=2022, 326.72063pt x 449.42906pt>
+<USPSC-LetrasGregas.png, id=2035, 326.72063pt x 449.42906pt>
 File: USPSC-LetrasGregas.png Graphic file (type png)
 <use USPSC-LetrasGregas.png>
 Package pdftex.def Info: USPSC-LetrasGregas.png  used on input line 40.
@@ -4237,16 +4233,12 @@ enddocument/afterlastpage: lastpage setting LastPage.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-16>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 22098 strings out of 476037
- 367633 string characters out of 5779845
- 1888763 words of memory out of 5000000
- 41447 multiletter control sequences out of 15000+600000
+ 22116 strings out of 476037
+ 368082 string characters out of 5779845
+ 1887763 words of memory out of 5000000
+ 41461 multiletter control sequences out of 15000+600000
  605476 words of font info for 238 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,17n,93p,2684b,825s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4325,9 +4317,9 @@ sbx10.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 msy10.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 msy8.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
 tt12.pfb>
-Output written on USPSC-TCC-modelo-ICMC.pdf (199 pages, 1468404 bytes).
+Output written on USPSC-TCC-modelo-ICMC.pdf (199 pages, 1472699 bytes).
 PDF statistics:
- 2758 PDF objects out of 2984 (max. 8388607)
- 635 named destinations out of 1000 (max. 500000)
+ 2772 PDF objects out of 2984 (max. 8388607)
+ 639 named destinations out of 1000 (max. 500000)
  53531 words of extra memory for PDF output out of 61914 (max. 10000000)
 
