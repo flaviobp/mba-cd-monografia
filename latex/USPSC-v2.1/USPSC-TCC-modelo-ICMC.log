@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.24)  29 JUN 2023 20:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.24)  6 JUL 2023 21:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2064,15 +2064,15 @@ Overfull \hbox (1.5877pt too wide) detected at line 214
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [30])
-[31]
+[31] [32]
 \openout2 = `USPSC-Cap2-Desenvolvimento.aux'.
 
- (USPSC-Cap2-Desenvolvimento.tex [32
+ (USPSC-Cap2-Desenvolvimento.tex [33
 
 
 
 
-] [33]
+]
 <USPSC-EstruturaTrabAcad.jpg, id=613, 625.58719pt x 514.92375pt>
 File: USPSC-EstruturaTrabAcad.jpg Graphic file (type jpg)
 <use USPSC-EstruturaTrabAcad.jpg>
@@ -4240,7 +4240,7 @@ L3 programming layer <2023-06-16>
 Here is how much of TeX's memory you used:
  22121 strings out of 476037
  368183 string characters out of 5779845
- 1887763 words of memory out of 5000000
+ 1888763 words of memory out of 5000000
  41465 multiletter control sequences out of 15000+600000
  605476 words of font info for 238 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -4320,7 +4320,7 @@ sbx10.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 msy10.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 msy8.pfb><C:/Users/flavi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
 tt12.pfb>
-Output written on USPSC-TCC-modelo-ICMC.pdf (199 pages, 1473910 bytes).
+Output written on USPSC-TCC-modelo-ICMC.pdf (199 pages, 1474994 bytes).
 PDF statistics:
  2775 PDF objects out of 2984 (max. 8388607)
  640 named destinations out of 1000 (max. 500000)
